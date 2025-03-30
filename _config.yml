@@ -24,9 +24,9 @@ name                     : "Aysu Ece Saricaoglu"
 description              : "Aysu Ece Saricaoglu's Research Blog"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "aesar77/aesar77.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+logo                     : "/assets/images/astromusers.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : # true, false (default)
 words_per_minute         : 200
@@ -90,7 +90,7 @@ baidu_site_verification  :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : "TardisBlue_77"
 facebook:
   username               :
   app_id                 :
@@ -117,7 +117,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "2nd Year PhD Student in Physics at Washington University in St. Louis"
   location         : "St. Louis, MO"
-  email            :
+  email            : "a.saricaoglu@wustl.edu"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -323,3 +323,11 @@ defaults:
       comments: # true
       share: true
       related: true
+      excerpt: "This post should [...]"
+    header:
+      overlay_image: /assets/images/unsplash-image-1.jpg
+      overlay_filter: linear-gradient(rgba(255, 0, 0, 0.5), rgba(0, 255, 255, 0.5))
+      caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+
+
+
