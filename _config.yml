@@ -323,12 +323,5 @@ defaults:
       comments: # true
       share: true
       related: true
-
-  excerpt: "This post should [...]"
-  header:
-    overlay_image: /assets/images/grcat2.png
-    overlay_filter: linear-gradient(rgba(255, 0, 0, 0.5), rgba(0, 255, 255, 0.5))
-    caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-
-
+      show_date: true
 
