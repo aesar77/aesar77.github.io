@@ -21,7 +21,7 @@ title                    : "An Astromuser's Research Blog"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Aysu Ece Saricaoglu"
-description              : "Aysu Ece Saricaoglu's Research Blog"
+description              : "Welcome to my research blog! I am a second year PhD student in Physics, and here I will post about my research work."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "aesar77/aesar77.github.io"
@@ -68,11 +68,11 @@ reCaptcha:
 atom_feed:
   path                   : # blank (default) uses feed.xml
   hide                   : # true, false (default)
-search                   : # true, false (default)
+search                   : True
 search_full_content      : # true, false (default)
 search_provider          : # lunr (default), algolia, google
 lunr:
-  search_within_pages    : # true, false (default)
+  search_within_pages    : True
 algolia:
   application_id         : # YOUR_APPLICATION_ID
   index_name             : # YOUR_INDEX_NAME
@@ -105,9 +105,9 @@ social:
 
 # Analytics
 analytics:
-  provider               : # false (default), "google", "google-universal", "google-gtag", "custom"
+  provider               :  "google-gtag"
   google:
-    tracking_id          :
+    tracking_id          :  "UA-1234567-8"
     anonymize_ip         : # true, false (default)
 
 
