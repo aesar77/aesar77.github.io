@@ -1,13 +1,13 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  # - title: "Quick-Start Guide"
+  #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "About Me"
-    url: https://aesar77.github.io/about/
+    url: /about/
   - title: "CV"
-    url: https://aesar77.github.io/cv/
+    url: /cv/
   - title: "Contact"
-    url: https://aesar77.github.io/contact/
+    url:  /contact/
 
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
