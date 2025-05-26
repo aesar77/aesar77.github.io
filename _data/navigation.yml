@@ -8,6 +8,8 @@ main:
     url: https://aesar77.github.io/cv/
   - title: "Contact"
     url:  https://aesar77.github.io/contact/
+  - title: "Research"
+    url: https://aesar77.github.io/research/
 
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
