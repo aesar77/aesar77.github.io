@@ -2,7 +2,13 @@
 main:
   - title: "Quick-Start Guide"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
+  - title: "About Me"
+    url: https://aesar77.github.io/about/
+  - title: "CV"
+    url: https://aesar77.github.io/cv/
+  - title: "Contact"
+    url: https://aesar77.github.io/contact/
+
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
   #   url: /year-archive/

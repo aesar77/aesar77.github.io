@@ -19,7 +19,7 @@ locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
 title                    : "An Astromuser's Research Blog"
 title_separator          : "-"
-subtitle                 : "Welcome to my research blog! I am a second year PhD student in Physics, and here I will post about my research work."
+subtitle                 : "Welcome to my research blog! I am a third year PhD student in Physics, and here I will post about my research work."
 name                     : "Aysu Ece Saricaoglu"
 description              : "A physics PhD stdudent's research blog, sharing insights and updates on astrophysics and related topics."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -324,4 +324,11 @@ defaults:
       share: true
       related: true
       show_date: true
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
 
