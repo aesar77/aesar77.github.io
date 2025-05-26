@@ -19,9 +19,9 @@ locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
 title                    : "An Astromuser's Research Blog"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "Welcome to my research blog! I am a second year PhD student in Physics, and here I will post about my research work."
 name                     : "Aysu Ece Saricaoglu"
-description              : "Welcome to my research blog! I am a second year PhD student in Physics, and here I will post about my research work."
+description              : "A physics PhD stdudent's research blog, sharing insights and updates on astrophysics and related topics."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "aesar77/aesar77.github.io"
@@ -115,7 +115,7 @@ analytics:
 author:
   name             : "Aysu Ece Saricaoglu"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "2nd Year PhD Student in Physics at Washington University in St. Louis"
+  bio              : "3rd Year PhD Student in Physics at Washington University in St. Louis"
   location         : "St. Louis, MO"
   email            : "a.saricaoglu@wustl.edu"
   links:
