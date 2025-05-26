@@ -1,0 +1,15 @@
+.research {
+    max-width: 1200px; /* Adjust the width as needed */
+    margin: 0 auto; /* Center the content */
+  }
+
+.image-with-caption {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.image-with-caption figcaption {
+    font-size: 14px;
+    color: gray;
+    margin-top: 5px;
+}
