@@ -120,7 +120,7 @@ author:
   email            : "a.saricaoglu@wustl.edu"
   links:
     - label: "WashU"
-      icon: "/assets/images/washu.png"
+      icon: "fas fa-fw fa-link"
       url: "https://physics.wustl.edu/people/aysu-ece-saricaoglu"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
