@@ -2,10 +2,10 @@
 main:
   # - title: "Quick-Start Guide"
   #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  - title: "About Me"
-    url: https://aesar77.github.io/about/
   - title: "Research"
     url: https://aesar77.github.io/research/
+  - title: "Repositories"
+    url: https://aesar77.github.io/repositories/
   - title: "CV"
     url: https://aesar77.github.io/cv/
   - title: "Contact"
